@@ -7,4 +7,5 @@ package com.example.rediscache.controller;
  * Time:22:04
  **/
 public class RdisCacheController {
+    private int number;
 }

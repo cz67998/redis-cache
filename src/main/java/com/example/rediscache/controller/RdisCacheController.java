@@ -8,5 +8,5 @@ package com.example.rediscache.controller;
  **/
 public class RdisCacheController {
     private int number;
-
+    private int i;
 }
